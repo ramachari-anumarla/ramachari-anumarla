@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Ramachari 👋  
+Software Engineer  
+
+I design and build scalable, secure systems with an emphasis on performance, reliability, and clean architecture.
+
 
 <!--
 **ramachari-anumarla/ramachari-anumarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
